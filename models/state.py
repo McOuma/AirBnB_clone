@@ -1,8 +1,13 @@
 #!/usr/bin/python3
-""" Class State """
+"""
+This file defines  stateModel class
+"""
+
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """ State class that inherits BaseModel"""
-    name = ""
+    # state model
+
+    # Atrributes
+    name: str = ''

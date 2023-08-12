@@ -1,4 +1,1 @@
-# This file lists all individuals having contributed content to the repository.
-
-Ouma Boniface <blainelium@gmail.com>
-Boniface Ouma <oumamugah@gmail.com>
+0x00. AirBnB clone - The console
