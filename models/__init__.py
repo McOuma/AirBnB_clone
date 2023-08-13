@@ -1,11 +1,6 @@
 #!/usr/bin/python3
+"""__init__ magic method for models directory"""
+from models.engine.file_storage import FileStorage
 
-"""
-Initializes  the module global (singleton) variables
-"""
-from .engine.file_storage import FileStorage
-"""
-Retrieves the storage instance
-"""
 storage = FileStorage()
 storage.reload()
